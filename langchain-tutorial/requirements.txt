@@ -8,3 +8,8 @@ uvicorn
 openai
 python-dotenv
 pydantic
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-openai
+langchain_schema
