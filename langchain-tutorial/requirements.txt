@@ -7,9 +7,11 @@ fastapi
 uvicorn
 openai
 python-dotenv
+langgraph
+streamlit
+wikipedia
 pydantic
 sentence-transformers
 faiss-cpu
 chromadb
 langchain-openai
-langchain_schema
